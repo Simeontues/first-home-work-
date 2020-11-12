@@ -1,2 +1,2 @@
-# first-home-work-
+# home-work-
 My first repository on GitHub.
